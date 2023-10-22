@@ -1,5 +1,5 @@
 # openKakaoTalkPassword
 kakaotalkPassword
 
-gdgincheon.com
+gdgincheon.com:231022
 
