@@ -1,0 +1,2 @@
+# openKakaoTalkPassword
+kakaotalkPassword
