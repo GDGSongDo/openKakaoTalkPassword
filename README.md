@@ -1,5 +1,5 @@
 # openKakaoTalkPassword
 kakaotalkPassword
 
-gdgs5432
+gdgs2025
 
